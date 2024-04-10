@@ -1,5 +1,5 @@
 {
-  "name": "ui_testing",
+  "name": "playwright-testing",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
